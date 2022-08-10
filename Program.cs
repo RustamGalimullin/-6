@@ -93,5 +93,6 @@ void PrintArrayDouble(double[] array)
 }
 //zadacha34();
 //Zadacha36();
+zadacha38();
 
 
