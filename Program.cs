@@ -27,9 +27,9 @@ void Zadacha36()
     PrintArray(array);
 
     int sum = 0;
-    for (int i = 0; i<array.Length; i++)
+    for (int i = 1; i<array.Length; i+=2)
     {
-        if (i % 2 == 1) sum += array[i];
+        sum += array[i];
     }
     Console.WriteLine($"Сумма элементов, стоящих на нечетных позиция равна :   {sum}"  );
 }
