@@ -1,0 +1,15 @@
+C:\Users\LIZA\Desktop\Рустам учеба\Семинар 6\Семинар6\bin\Debug\net6.0\Семинар6.exe
+C:\Users\LIZA\Desktop\Рустам учеба\Семинар 6\Семинар6\bin\Debug\net6.0\Семинар6.deps.json
+C:\Users\LIZA\Desktop\Рустам учеба\Семинар 6\Семинар6\bin\Debug\net6.0\Семинар6.runtimeconfig.json
+C:\Users\LIZA\Desktop\Рустам учеба\Семинар 6\Семинар6\bin\Debug\net6.0\Семинар6.dll
+C:\Users\LIZA\Desktop\Рустам учеба\Семинар 6\Семинар6\bin\Debug\net6.0\Семинар6.pdb
+C:\Users\LIZA\Desktop\Рустам учеба\Семинар 6\Семинар6\obj\Debug\net6.0\Семинар6.csproj.AssemblyReference.cache
+C:\Users\LIZA\Desktop\Рустам учеба\Семинар 6\Семинар6\obj\Debug\net6.0\Семинар6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIZA\Desktop\Рустам учеба\Семинар 6\Семинар6\obj\Debug\net6.0\Семинар6.AssemblyInfoInputs.cache
+C:\Users\LIZA\Desktop\Рустам учеба\Семинар 6\Семинар6\obj\Debug\net6.0\Семинар6.AssemblyInfo.cs
+C:\Users\LIZA\Desktop\Рустам учеба\Семинар 6\Семинар6\obj\Debug\net6.0\Семинар6.csproj.CoreCompileInputs.cache
+C:\Users\LIZA\Desktop\Рустам учеба\Семинар 6\Семинар6\obj\Debug\net6.0\Семинар6.dll
+C:\Users\LIZA\Desktop\Рустам учеба\Семинар 6\Семинар6\obj\Debug\net6.0\refint\Семинар6.dll
+C:\Users\LIZA\Desktop\Рустам учеба\Семинар 6\Семинар6\obj\Debug\net6.0\Семинар6.pdb
+C:\Users\LIZA\Desktop\Рустам учеба\Семинар 6\Семинар6\obj\Debug\net6.0\Семинар6.genruntimeconfig.cache
+C:\Users\LIZA\Desktop\Рустам учеба\Семинар 6\Семинар6\obj\Debug\net6.0\ref\Семинар6.dll
